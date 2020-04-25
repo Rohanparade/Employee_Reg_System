@@ -1,0 +1,97 @@
+body
+{
+
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: red;
+	font-family: sans-serif;
+	font-size: 300;
+	background-size: 100%;/* 
+	background-image: url("D:/G_Drive/Study/Java/HTML CSS/Images/IMG-20160613-WA0012.jpg"); */
+	background-image: url("C:/Users/Acer/eclipse-workspace/Employee_Registration_System/Images/IMG-20160613-WA0012.jpg");
+}
+
+.main
+{
+	text-align: center;
+
+}
+
+#Login
+{
+	margin-bottom: 28px;
+	width: 120px;
+	height: 32px;
+	background:#f44336;
+	border:none;
+	border-radius: 80px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	transition: 0.2s ease;
+	cursor: pointer;
+	padding: 10px;
+	margin: 50px;
+	text-align: center;
+}
+#Registration
+{
+
+	margin-bottom: 28px;
+	width: 120px;
+	height: 32px;
+	background:#f44336;
+	border:none;
+	border-radius: 80px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	transition: 0.2s ease;
+	cursor: pointer;
+	padding: 10px;
+	margin: 50px;
+	text-align: center;
+}
+#About
+{
+
+	margin-bottom: 28px;
+	width: 120px;
+	height: 32px;
+	background:#f44336;
+	border:none;
+	border-radius: 80px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	transition: 0.2s ease;
+	cursor: pointer;
+	padding: 10px;
+	margin: 50px;
+	text-align: center;
+}
+
+#Contact
+{
+
+	margin-bottom: 28px;
+	width: 120px;
+	height: 32px;
+	background:#f44336;
+	border:none;
+	border-radius: 80px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	transition: 0.2s ease;
+	cursor: pointer;
+	padding: 10px;
+	margin: 50px;
+	text-align: center;
+	
+}
