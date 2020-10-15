@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "your account is activated"
+echo "your account is activated Rohan"
